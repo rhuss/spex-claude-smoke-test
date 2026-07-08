@@ -4,3 +4,22 @@
 **/.specify/**
 !**/.specify/memory/
 !**/.specify/memory/constitution.md
+
+# Compiled binary
+skyweather
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
